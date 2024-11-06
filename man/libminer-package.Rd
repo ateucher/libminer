@@ -11,9 +11,9 @@ Summarize R packages on your computer (toy package).
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/ateucher/libminer}
-  \item \url{http://andyteucher.ca/libminer/}
-  \item Report bugs at \url{https://github.com/ateucher/libminer/issues}
+  \item \url{https://github.com/ateucher/libminer-df0-2024-11}
+  \item \url{http://andyteucher.ca/libminer-df0-2024-11/}
+  \item Report bugs at \url{https://github.com/ateucher/libminer-df0-2024-11/issues}
 }
 
 }

@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/ateucher/libminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ateucher/libminer/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/ateucher/libminer-dfo-2024-11/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ateucher/libminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to provide an overview of your R library setup. It is a toy
@@ -29,7 +29,7 @@ You can install the development version of libminer from [GitHub](https://GitHub
 
 ```r
 # install.packages("devtools")
-devtools::install_GitHub("ateucher/libminer")
+devtools::install_GitHub("ateucher/libminer-dfo-2024-11")
 ```
 
 ## Example usage
