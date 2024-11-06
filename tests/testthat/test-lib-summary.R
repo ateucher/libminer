@@ -1,5 +1,5 @@
 test_that("lib_summary returns expected results with defaults", {
-  result <- lib_summary()
+  result <- lib_summary(LibPath)
 
   expect_s3_class(result, "data.frame")
   expect_equal(ncol(result), 2)
@@ -10,7 +10,7 @@ test_that("lib_summary returns expected results with defaults", {
 })
 
 test_that("sizes works", {
-  result <- lib_summary(sizes = TRUE)
+  result <- lib_summary(LibPath, sizes = TRUE)
 
   expect_s3_class(result, "data.frame")
   expect_equal(ncol(result), 3)
