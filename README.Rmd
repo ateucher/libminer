@@ -41,3 +41,10 @@ optionally with the total sizes, use the `lib_summary()` function:
 library(libminer)
 lib_summary()
 ```
+
+And you can use the `lib()` function:
+
+```{r}
+lib()
+```
+
