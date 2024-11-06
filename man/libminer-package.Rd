@@ -12,6 +12,7 @@ Summarize R packages on your computer (toy package).
 Useful links:
 \itemize{
   \item \url{https://github.com/ateucher/libminer}
+  \item \url{http://andyteucher.ca/libminer/}
   \item Report bugs at \url{https://github.com/ateucher/libminer/issues}
 }
 
