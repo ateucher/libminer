@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   using-libminer: using-libminer.html
-last_built: 2024-11-06T17:22Z
+last_built: 2024-11-06T17:24Z
 urls:
   reference: http://andyteucher.ca/libminer/reference
   article: http://andyteucher.ca/libminer/articles
