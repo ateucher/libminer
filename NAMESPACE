@@ -3,3 +3,4 @@
 export(lib)
 export(lib_summary)
 importFrom(purrr,map_dbl)
+importFrom(rlang,.data)
